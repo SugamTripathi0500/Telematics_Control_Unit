@@ -7,11 +7,11 @@ Brief overview of the project, its objectives, and the role of the TCU in enhanc
 Check out our exciting YouTube demonstration video, highlighting the advanced features and capabilities of our Telematics Control Unit (TCU). Here’s what you’ll see:
 [YouTube Link](https://www.youtube.com/watch?v=_8ICjVyYUAQ)
 
-##Full Functionality Showcase
+Full Functionality Showcase
 Explore the complete functionality of the TCU in action.
 
 Integration Efforts
-Discover how we’re integrating the TCU into our high-performance vehicles, Accelerons and Nitrox.
+Discover how we’re integrating the TCU into our high-performance vehicles, Accelerons and Nitrox. Coming Soon..
 
 Tailored Solution
 Learn about the customization process to meet the unique requirements of each vehicle.
